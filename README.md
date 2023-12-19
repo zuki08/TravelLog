@@ -18,7 +18,8 @@ Docker is to containerize the application using the Microservice Architecture wh
 
 Client can edit their trips and itineraries. This will send post requests through the event-bus, which notifies every service and based on event type of the request, certain services will take action. The server will update database with an location appended event.
 
-# Note: You should create .env files for the applications to work. Please follow the instructions inside the .env.example files of each folder. Thank you.
+# Note: You should create .env files for the applications to work. Please follow the instructions inside the .env.example files of each folder if they exist. 
+Thank you.
 
 # Getting Started with Create React App
 
