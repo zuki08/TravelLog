@@ -1,0 +1,607 @@
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:27:04.940Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:29:24.665Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:31:37.021Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:33:19.249Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:34:37.648Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-07T21:34:38.476Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-07T21:34:38.493Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-07T21:35:05.195Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:41:14.033Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-07T21:41:14.985Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-07T21:41:14.998Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-07T21:44:51.374Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:47:33.472Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-07T21:47:34.365Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-07T21:47:34.377Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-07T21:47:48.258Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:50:00.766Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-07T21:52:07.119Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-07T21:52:07.971Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-07T21:52:07.984Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-07T22:21:16.399Z"}
+info: Generating Coordinates based on address and city. Determining if there's a Zip or not {"timestamp":"2023-12-07T22:21:16.401Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-07T22:21:17.597Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-07T22:21:17.608Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-10T05:17:00.519Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-10T16:23:27.368Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-10T16:27:40.182Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-10T16:27:59.806Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-10T16:39:52.596Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T16:39:53.487Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T16:39:53.504Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T16:41:58.020Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T16:41:58.686Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T16:41:59.581Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-10T16:42:22.419Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T16:42:23.358Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T16:42:23.373Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-10T16:56:07.001Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T16:56:08.061Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T16:56:08.076Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T16:56:26.237Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T16:56:26.870Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-10T16:57:29.529Z"}
+info: Generating Coordinates based on address and city. Determining if there's a Zip or not {"timestamp":"2023-12-10T16:57:29.532Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T16:57:30.579Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T16:57:30.595Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-10T18:32:35.067Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-10T18:33:37.967Z"}
+info: Generating Coordinates based on address and city. Determining if there's a Zip or not {"timestamp":"2023-12-10T18:33:37.970Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T18:33:39.198Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T18:33:39.214Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T18:34:15.646Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-10T18:40:32.497Z"}
+info: Generating Coordinates based on address and city. Determining if there's a Zip or not {"timestamp":"2023-12-10T18:40:32.499Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T18:40:33.565Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T18:40:33.575Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-10T18:41:28.854Z"}
+info: Generating Coordinates based on address and city. Determining if there's a Zip or not {"timestamp":"2023-12-10T18:41:28.855Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T18:41:29.749Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T18:41:29.759Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T18:44:41.911Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-10T19:24:01.654Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T19:24:02.554Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T19:24:02.560Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-10T19:29:14.526Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T19:29:15.484Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T19:29:15.499Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-10T19:31:06.054Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-10T19:31:19.376Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T19:31:20.224Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T19:31:20.240Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-10T19:33:18.352Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T19:33:18.946Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T19:33:18.954Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-10T19:33:33.219Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T19:33:33.977Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T19:33:33.986Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-10T19:33:48.837Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T19:33:49.638Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T19:33:49.646Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-10T19:39:30.112Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T19:39:31.174Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T19:39:31.189Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-10T19:40:48.425Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-10T19:40:49.245Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-10T19:40:49.260Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T19:41:00.776Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-10T19:41:02.439Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-10T19:41:15.099Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T02:52:58.798Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T02:53:33.287Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T02:53:33.558Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T02:53:33.581Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T02:58:55.998Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T02:59:15.533Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T02:59:15.536Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T02:59:16.253Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T02:59:16.269Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:01:45.791Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:01:45.793Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:01:46.876Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:01:46.889Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T03:02:05.458Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T03:02:06.268Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T03:02:06.913Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T03:02:12.700Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T03:07:02.986Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:07:50.471Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:07:50.472Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:07:51.327Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:07:51.338Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T03:22:55.369Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T03:23:48.678Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T03:27:16.463Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:28:03.347Z"}
+info: No address or city defined... Appending 0 0 as lat and long {"timestamp":"2023-12-11T03:28:03.350Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:28:03.684Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:28:03.714Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T03:28:53.034Z"}
+info: Generating Coordinates based on address and city. Determining if there's a Zip or not {"timestamp":"2023-12-11T03:28:53.038Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:28:53.968Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:28:53.985Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T03:33:51.793Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:34:08.989Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:34:55.792Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:34:56.055Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:34:56.089Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T03:35:39.437Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:36:01.526Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:36:01.527Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:36:02.744Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:36:02.766Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:37:54.374Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:37:54.377Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:37:55.193Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:37:55.210Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T03:38:19.364Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-11T03:38:49.601Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-11T03:39:07.403Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-11T03:39:12.472Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T03:39:44.310Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:39:44.311Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:39:45.326Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:39:45.335Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T03:40:03.134Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:40:03.307Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:40:03.347Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T03:40:35.366Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:41:58.230Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:41:58.230Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:41:58.970Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:41:58.977Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T03:48:13.044Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:48:54.866Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:48:54.869Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:48:56.296Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:48:56.313Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T03:49:23.235Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:49:23.238Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:49:24.486Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:49:24.505Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:50:03.535Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:50:03.535Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:50:04.313Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:50:04.325Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:51:17.974Z"}
+info: Generating Coordinates based on address and city. Determining if there's a Zip or not {"timestamp":"2023-12-11T03:51:17.975Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:51:19.032Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:51:19.041Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T03:51:51.670Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-11T03:52:15.606Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T03:52:42.963Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T03:56:27.671Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:57:40.579Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:57:40.582Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:57:41.861Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:57:41.879Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T03:58:32.068Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:58:32.071Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:58:33.214Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:58:33.231Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T03:59:27.962Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T03:59:27.962Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T03:59:28.388Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T03:59:28.395Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T04:00:08.496Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-11T04:00:34.158Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T04:00:43.268Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T04:06:09.789Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T04:06:09.792Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T04:06:11.339Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T04:06:11.359Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T04:07:23.204Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T04:07:23.208Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T04:07:24.156Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T04:07:24.175Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T04:07:53.637Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T04:07:53.651Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T04:07:54.438Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T04:07:54.452Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T04:08:17.466Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-11T04:08:50.876Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T04:09:17.616Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T04:09:24.307Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T04:48:58.770Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T04:48:58.773Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T04:49:00.176Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T04:49:00.194Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T04:50:00.073Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T04:50:00.077Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T04:50:01.121Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T04:50:01.139Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T04:50:28.593Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T04:51:12.955Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T04:51:32.384Z"}
+info: append to best of ability, nothing else other than name {"timestamp":"2023-12-11T04:51:32.384Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T04:51:33.213Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T04:51:33.222Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T04:51:48.105Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T05:09:22.559Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T05:09:22.686Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T05:09:22.697Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:06:34.864Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:07:02.924Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:07:30.269Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:07:32.303Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:07:32.340Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T16:09:49.318Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:10:12.217Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:10:14.652Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:10:14.679Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T16:11:47.685Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:12:02.253Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:12:04.511Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:12:04.523Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T16:24:58.454Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:25:42.714Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:26:18.410Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:31:42.147Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:31:43.388Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:31:43.421Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T16:32:42.787Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:32:43.127Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:32:43.138Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T16:33:16.524Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:33:30.354Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:33:45.169Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:33:48.051Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:33:56.984Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:34:11.049Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:34:11.698Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:34:11.722Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:34:25.102Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:36:21.504Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:38:04.338Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:38:05.061Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:38:05.073Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T16:39:30.974Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:39:44.363Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:39:45.229Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:39:45.252Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:40:03.930Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:40:04.584Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:40:04.597Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:40:19.383Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:40:20.226Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:40:20.242Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T16:40:35.635Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:41:18.769Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:45:34.849Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:45:46.498Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:45:47.289Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:45:47.297Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:46:06.842Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:47:03.092Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:50:23.024Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:50:23.682Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:50:23.690Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:50:57.946Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:51:20.570Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:56:22.622Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:56:38.704Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:56:39.399Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:56:39.410Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:56:45.996Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T16:59:29.021Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T16:59:39.476Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T16:59:40.435Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T16:59:40.445Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T16:59:48.400Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T17:07:54.096Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T17:08:13.614Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T17:08:14.262Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T17:08:14.274Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T17:08:20.824Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T17:09:34.808Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T17:09:56.559Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T17:09:57.298Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T17:09:57.308Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T17:10:06.448Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T17:11:20.622Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T17:11:44.823Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T17:11:45.935Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T17:11:45.943Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T17:11:52.130Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T17:11:56.567Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T17:12:09.818Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T19:00:33.555Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T19:00:35.510Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T19:00:37.352Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T19:02:31.864Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-11T19:36:49.368Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T19:37:00.724Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:37:01.527Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:37:01.565Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:38:06.816Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:38:07.384Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:38:07.394Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:38:18.155Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:38:18.706Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:38:18.717Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:38:38.842Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:38:39.646Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:38:39.657Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:38:51.313Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:38:52.028Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:38:52.037Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:39:08.931Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:39:09.638Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:39:09.645Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:39:42.076Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:39:42.781Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:39:42.788Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:39:52.561Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:39:52.987Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:39:52.996Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T19:40:26.571Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:40:27.162Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:40:27.169Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:40:33.985Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:40:34.631Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:40:34.636Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:40:37.816Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:40:38.086Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:40:38.094Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:44:31.968Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:44:32.604Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:44:32.622Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:44:42.036Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:44:42.754Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:44:42.762Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:45:51.463Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:45:52.278Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:45:52.283Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:47:38.467Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:47:39.186Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:47:39.196Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:53:15.721Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:53:16.364Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:53:16.378Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:55:04.182Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:55:04.899Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:55:04.906Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:55:16.151Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:55:16.936Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:55:16.942Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T19:55:27.881Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T19:55:28.497Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T19:55:28.508Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:15:49.216Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:15:50.291Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:15:50.306Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:16:50.465Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:16:51.710Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:16:51.718Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:17:30.033Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:17:30.814Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:17:30.820Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:20:21.824Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:20:34.144Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:20:34.488Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:20:34.494Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:22:13.986Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:22:22.305Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:22:22.941Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:22:22.947Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:23:26.533Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:23:27.236Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:23:27.244Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:31:03.589Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:31:04.485Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:31:04.492Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:33:26.493Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:33:27.412Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:33:28.163Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:33:29.072Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:33:35.301Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:33:36.047Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:33:36.054Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:34:09.521Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:34:10.234Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:34:10.242Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:35:11.738Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:35:12.042Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:35:12.047Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:35:56.528Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:35:57.748Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:35:59.454Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:36:12.053Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:36:12.618Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:36:12.626Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:37:44.537Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:37:57.098Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:37:58.065Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:37:58.079Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:39:00.584Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:39:01.300Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:39:01.307Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:39:26.806Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:39:39.717Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:39:40.679Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:39:40.684Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:41:37.601Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:41:56.829Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:41:58.251Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:41:58.258Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:44:39.423Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:44:54.259Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:44:54.658Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:44:54.665Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:45:18.114Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:45:18.823Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:45:18.844Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:48:41.778Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:48:43.505Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:48:43.511Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:49:08.900Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:49:10.830Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:49:10.836Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:49:27.037Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:49:29.063Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:49:29.068Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:49:48.094Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:50:05.882Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:50:07.464Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:50:07.470Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:50:22.598Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:50:24.771Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:50:24.778Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:50:50.014Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:50:50.886Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:50:50.892Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:51:09.915Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:51:10.742Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:51:10.749Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:56:08.973Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:56:10.190Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:56:11.385Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:56:37.761Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:56:42.087Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:56:42.094Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:57:17.165Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:57:19.904Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:57:19.910Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:57:59.954Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:58:02.230Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:58:02.238Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T20:58:14.036Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:58:14.571Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:58:14.577Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:58:28.910Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:58:46.623Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:58:48.149Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:58:48.155Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T20:59:13.206Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T20:59:33.235Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T20:59:34.539Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T20:59:34.545Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T21:00:30.322Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:00:48.155Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:00:50.314Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:00:50.320Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:01:03.382Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:01:04.051Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:01:04.059Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:05:33.388Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:05:34.095Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:05:34.101Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T21:11:13.851Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T21:11:18.711Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:11:28.254Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:11:29.703Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:11:29.708Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:11:41.921Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:11:43.830Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:11:43.835Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T21:18:04.814Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T21:18:10.142Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:18:23.411Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:21:07.649Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:21:09.320Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:21:09.325Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:21:34.895Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:21:36.156Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:21:36.160Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T21:24:59.884Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T21:25:07.468Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:25:24.278Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:28:29.162Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:28:30.169Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:28:30.176Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:28:51.713Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:28:53.187Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:28:53.192Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:29:47.037Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:29:47.585Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:29:47.590Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:33:45.854Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:33:46.703Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:33:46.716Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:35:23.173Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:35:23.843Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:35:23.853Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:37:00.204Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:37:01.541Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:37:01.548Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T21:38:06.243Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T21:38:12.000Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:38:21.236Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:38:24.076Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:38:24.084Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:38:34.469Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:38:35.425Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:38:35.433Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:39:02.468Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:39:03.485Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:39:03.494Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T21:40:05.693Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:40:07.271Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:40:07.280Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T21:40:26.369Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:40:27.552Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:40:27.565Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T21:40:35.362Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T21:40:39.028Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:40:52.147Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:40:52.848Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:40:52.857Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T21:46:10.283Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T21:46:11.730Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T21:46:11.735Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T21:48:56.386Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T21:49:13.236Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T22:29:44.026Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:29:45.210Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:29:45.225Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T22:31:04.735Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:31:05.808Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:31:05.832Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T22:31:16.636Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:31:17.459Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:31:17.467Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T22:31:44.036Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:31:45.009Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:31:45.017Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T22:35:56.782Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:35:58.073Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:35:58.089Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T22:37:16.463Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:37:17.404Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:37:17.413Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T22:39:11.972Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:39:12.600Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:39:12.618Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T22:40:42.282Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:40:43.133Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:40:43.143Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T22:40:50.524Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:40:51.315Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:40:51.322Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T22:40:58.673Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T22:41:01.428Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T22:44:41.305Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:44:42.169Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:44:42.185Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T22:45:55.085Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:45:56.373Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:45:56.385Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T22:46:22.812Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T22:46:40.974Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T22:47:06.670Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T22:47:07.359Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T22:47:07.365Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T22:47:35.254Z"}
+info: Location Service received a(n) EditPlan event {"timestamp":"2023-12-11T23:04:07.456Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T23:04:08.676Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T23:04:08.696Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T23:05:01.886Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T23:05:02.600Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T23:05:02.608Z"}
+info: Location Service received a(n) DeletePlan event {"timestamp":"2023-12-11T23:05:44.120Z"}
+info: Location Service received a(n) CreateTrip event {"timestamp":"2023-12-11T23:06:09.556Z"}
+info: Location Service received a(n) CreatePlan event {"timestamp":"2023-12-11T23:06:31.628Z"}
+info: Location Service received a(n) LocationAppended event {"timestamp":"2023-12-11T23:06:32.363Z"}
+info: Sent the updated body as a Location appended event to the Event Bus {"timestamp":"2023-12-11T23:06:32.369Z"}
+info: Location Service received a(n) DeleteTrip event {"timestamp":"2023-12-11T23:07:07.947Z"}
+info: Location Service received a(n) EditTrip event {"timestamp":"2023-12-11T23:07:15.837Z"}

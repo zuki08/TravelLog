@@ -1,0 +1,1372 @@
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T05:40:31.921Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T05:42:25.078Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T05:48:41.904Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T05:50:57.005Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T05:53:11.205Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:23:56.964Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:26:34.610Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:27:04.859Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:28:37.048Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:29:24.603Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:31:08.237Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:31:36.960Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:32:43.543Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:33:19.187Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:34:11.277Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:34:37.589Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-07T21:34:38.381Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-07T21:34:38.442Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-07T21:34:38.444Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:34:38.781Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-07T21:35:05.103Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-07T21:35:05.155Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-07T21:35:05.157Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:35:05.238Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:40:51.189Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:41:13.965Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-07T21:41:14.875Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-07T21:41:14.932Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-07T21:41:14.935Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:41:15.057Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:42:11.827Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:42:13.482Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:44:46.158Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:44:47.885Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-07T21:44:51.250Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-07T21:44:51.315Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-07T21:44:51.319Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:44:51.418Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:47:04.659Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:47:33.408Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-07T21:47:34.250Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-07T21:47:34.308Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-07T21:47:34.312Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:47:34.435Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-07T21:47:48.134Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-07T21:47:48.189Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-07T21:47:48.194Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:47:48.311Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:49:15.811Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:50:00.706Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:51:48.644Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-07T21:52:07.056Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-07T21:52:07.853Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-07T21:52:07.914Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-07T21:52:07.917Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T21:52:08.048Z"}
+info: Received EditPlan event {"timestamp":"2023-12-07T22:21:16.305Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-07T22:21:17.341Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-07T22:21:17.532Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-07T22:21:17.536Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-07T22:21:17.803Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-09T15:29:45.995Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T05:16:42.041Z"}
+info: Received EditTrip event {"timestamp":"2023-12-10T05:17:00.397Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-10T05:17:00.440Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-10T05:17:00.449Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T05:17:00.588Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:22:59.961Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:23:00.704Z"}
+info: Received EditTrip event {"timestamp":"2023-12-10T16:23:27.256Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-10T16:23:27.301Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-10T16:23:27.309Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:23:27.428Z"}
+info: Received EditTrip event {"timestamp":"2023-12-10T16:27:40.055Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-10T16:27:40.102Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-10T16:27:40.106Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:27:40.244Z"}
+info: Received EditTrip event {"timestamp":"2023-12-10T16:27:59.731Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-10T16:27:59.766Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-10T16:27:59.770Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:27:59.870Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:30:49.134Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:39:28.289Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-10T16:39:52.519Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T16:39:53.363Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:39:53.422Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T16:39:53.426Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:39:53.560Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:39:57.600Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T16:41:57.886Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:41:57.953Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T16:41:57.957Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:41:58.079Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T16:41:58.624Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:41:58.668Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T16:41:58.670Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:41:58.722Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T16:41:59.514Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:41:59.564Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T16:41:59.566Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:41:59.613Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-10T16:42:22.341Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T16:42:23.226Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:42:23.279Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T16:42:23.284Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:42:23.417Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:48:19.278Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:53:18.333Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:55:11.703Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-10T16:56:06.915Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T16:56:07.937Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:56:07.997Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T16:56:08.002Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:56:08.122Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T16:56:26.123Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:56:26.172Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T16:56:26.175Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:56:26.287Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T16:56:26.799Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:56:26.851Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T16:56:26.854Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:56:26.902Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-10T16:57:29.466Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T16:57:30.478Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T16:57:30.521Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T16:57:30.523Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T16:57:30.629Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T18:31:43.484Z"}
+info: Received EditTrip event {"timestamp":"2023-12-10T18:32:34.956Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-10T18:32:34.998Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-10T18:32:35.003Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T18:32:35.128Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-10T18:33:37.900Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T18:33:39.088Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T18:33:39.136Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T18:33:39.143Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T18:33:39.258Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T18:34:15.538Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T18:34:15.588Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T18:34:15.589Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T18:34:15.714Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T18:38:57.517Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-10T18:40:32.441Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T18:40:33.418Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T18:40:33.540Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T18:40:33.547Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T18:40:33.627Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-10T18:41:28.835Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T18:41:29.688Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T18:41:29.734Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T18:41:29.736Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T18:41:29.804Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T18:44:41.828Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T18:44:41.890Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T18:44:41.891Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T18:44:41.953Z"}
+info: Received EditPlan event {"timestamp":"2023-12-10T19:24:01.634Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T19:24:02.295Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:24:02.536Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T19:24:02.539Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:24:02.730Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:28:57.436Z"}
+info: Received EditPlan event {"timestamp":"2023-12-10T19:29:14.450Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T19:29:15.361Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:29:15.414Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T19:29:15.421Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:29:15.560Z"}
+info: Received EditTrip event {"timestamp":"2023-12-10T19:31:05.952Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-10T19:31:05.987Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-10T19:31:05.991Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:31:06.104Z"}
+info: Received EditPlan event {"timestamp":"2023-12-10T19:31:19.308Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T19:31:20.132Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:31:20.174Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T19:31:20.175Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:31:20.280Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:33:11.296Z"}
+info: Received EditPlan event {"timestamp":"2023-12-10T19:33:18.333Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T19:33:18.876Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:33:18.928Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T19:33:18.933Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:33:19.014Z"}
+info: Received EditPlan event {"timestamp":"2023-12-10T19:33:33.195Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T19:33:33.920Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:33:33.963Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T19:33:33.969Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:33:34.021Z"}
+info: Received EditPlan event {"timestamp":"2023-12-10T19:33:48.816Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T19:33:49.585Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:33:49.624Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T19:33:49.630Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:33:49.684Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:36:56.445Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:38:54.122Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-10T19:39:30.025Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T19:39:31.062Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:39:31.119Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T19:39:31.122Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:39:31.247Z"}
+info: Received EditPlan event {"timestamp":"2023-12-10T19:40:48.356Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-10T19:40:49.131Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:40:49.176Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-10T19:40:49.178Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:40:49.308Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T19:41:00.664Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:41:00.710Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T19:41:00.711Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:41:00.823Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-10T19:41:02.365Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-10T19:41:02.418Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-10T19:41:02.420Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:41:02.471Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-10T19:41:15.047Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-10T19:41:15.080Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-10T19:41:15.082Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-10T19:41:15.137Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T02:52:48.710Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T02:52:58.650Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T02:52:58.715Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T02:52:58.718Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T02:52:58.867Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T02:53:33.213Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T02:53:33.440Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T02:53:33.496Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T02:53:33.500Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T02:53:33.624Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T02:58:47.003Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T02:58:55.850Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T02:58:55.917Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T02:58:55.922Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T02:58:56.050Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T02:59:15.450Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T02:59:16.149Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T02:59:16.201Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T02:59:16.208Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T02:59:16.304Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:01:45.738Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:01:46.789Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:01:46.834Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:01:46.847Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:01:46.926Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T03:02:05.397Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:02:05.440Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T03:02:05.442Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:02:05.506Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T03:02:06.192Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:02:06.248Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T03:02:06.249Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:02:06.310Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T03:02:06.847Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:02:06.897Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T03:02:06.900Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:02:06.948Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T03:02:12.651Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T03:02:12.684Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T03:02:12.685Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:02:12.759Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:05:57.056Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T03:07:02.928Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T03:07:02.965Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T03:07:02.966Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:07:03.034Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:07:50.441Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:07:51.259Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:07:51.305Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:07:51.308Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:07:51.374Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T03:22:55.234Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T03:22:55.276Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T03:22:55.280Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:22:55.445Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T03:23:48.542Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T03:23:48.572Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T03:23:48.580Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:23:48.764Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:26:14.808Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T03:27:16.334Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T03:27:16.378Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T03:27:16.386Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:27:16.531Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:28:03.254Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:28:03.552Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:28:03.605Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:28:03.613Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:28:03.767Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T03:28:52.960Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:28:53.879Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:28:53.924Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:28:53.926Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:28:54.048Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:33:47.530Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T03:33:51.641Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:33:51.706Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T03:33:51.711Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:33:51.854Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:34:08.917Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:34:09.148Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:34:18.211Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:34:55.722Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:34:55.937Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:34:55.988Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:34:55.991Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:34:56.142Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:35:35.698Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T03:35:39.316Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:35:39.368Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T03:35:39.369Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:35:39.499Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:36:01.506Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:36:02.655Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:36:02.708Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:36:02.720Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:37:20.182Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:37:54.299Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:37:55.081Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:37:55.130Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:37:55.136Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:37:55.275Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T03:38:19.232Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T03:38:19.269Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T03:38:19.276Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:38:19.429Z"}
+info: Received EditTrip event {"timestamp":"2023-12-11T03:38:49.512Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-11T03:38:49.548Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-11T03:38:49.549Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:38:49.707Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:39:00.374Z"}
+info: Received EditTrip event {"timestamp":"2023-12-11T03:39:07.307Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-11T03:39:07.337Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-11T03:39:07.338Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:39:07.461Z"}
+info: Received EditTrip event {"timestamp":"2023-12-11T03:39:12.415Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-11T03:39:12.452Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-11T03:39:12.455Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:39:12.513Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T03:39:44.276Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:39:45.252Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:39:45.297Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:39:45.299Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:39:45.378Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T03:40:03.101Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:40:03.232Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:40:03.283Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:40:03.284Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:40:03.396Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:40:11.882Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:40:17.917Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:40:28.500Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:40:31.909Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T03:40:35.228Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:40:35.344Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T03:40:35.346Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:40:35.413Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:41:58.211Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:41:58.899Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:41:58.950Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:41:58.952Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:41:59.007Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:46:53.613Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T03:48:12.915Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T03:48:12.960Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T03:48:12.964Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:48:13.110Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:48:54.778Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:48:56.156Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:48:56.205Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:48:56.212Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:48:56.358Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T03:49:23.072Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:49:24.393Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:49:24.437Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:49:24.439Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:49:24.569Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:50:03.517Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:50:04.246Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:50:04.294Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:50:04.299Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:50:04.370Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:51:17.957Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:51:18.964Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:51:19.015Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:51:19.023Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:51:19.085Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T03:51:51.600Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:51:51.652Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T03:51:51.653Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:51:51.709Z"}
+info: Received EditTrip event {"timestamp":"2023-12-11T03:52:15.559Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-11T03:52:15.590Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-11T03:52:15.591Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:52:15.647Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T03:52:42.923Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T03:52:42.947Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T03:52:42.949Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:52:43.001Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:55:03.002Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T03:56:27.554Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T03:56:27.596Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T03:56:27.600Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:56:27.731Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:57:40.506Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:57:41.746Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:57:41.797Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:57:41.801Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:57:41.924Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T03:58:31.928Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:58:33.117Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:58:33.171Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:58:33.178Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:58:33.285Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T03:59:27.945Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T03:59:28.327Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T03:59:28.373Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T03:59:28.375Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T03:59:28.438Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T04:00:08.426Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:00:08.476Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T04:00:08.482Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:00:08.539Z"}
+info: Received EditTrip event {"timestamp":"2023-12-11T04:00:34.100Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-11T04:00:34.138Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-11T04:00:34.139Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:00:34.203Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T04:00:43.224Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T04:00:43.250Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T04:00:43.252Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:00:43.307Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:00:58.274Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:04:08.967Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T04:06:09.699Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T04:06:11.205Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:06:11.261Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T04:06:11.267Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:06:11.422Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T04:07:23.082Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T04:07:24.051Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:07:24.096Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T04:07:24.098Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:07:24.229Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T04:07:53.479Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T04:07:54.360Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:07:54.408Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T04:07:54.409Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:07:54.512Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T04:08:17.394Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:08:17.450Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T04:08:17.452Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:08:17.508Z"}
+info: Received EditTrip event {"timestamp":"2023-12-11T04:08:50.831Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-11T04:08:50.857Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-11T04:08:50.858Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:08:50.919Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T04:09:17.570Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T04:09:17.597Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T04:09:17.599Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:09:17.661Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T04:09:24.256Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T04:09:24.284Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T04:09:24.287Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:09:24.354Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:47:44.659Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T04:48:58.616Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T04:49:00.059Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:49:00.114Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T04:49:00.119Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:49:00.250Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T04:49:59.995Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T04:50:00.994Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:50:01.049Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T04:50:01.057Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:50:01.191Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T04:50:28.480Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:50:28.528Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T04:50:28.531Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:50:28.642Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T04:51:12.893Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T04:51:12.935Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T04:51:12.937Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:51:12.997Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T04:51:32.365Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T04:51:33.156Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T04:51:33.198Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T04:51:33.198Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:51:33.261Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T04:51:48.054Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T04:51:48.086Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T04:51:48.088Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T04:51:48.149Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T05:09:09.676Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T05:09:22.547Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T05:09:22.620Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T05:09:22.672Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T05:09:22.674Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T05:09:22.729Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:06:26.935Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:06:34.574Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:06:34.749Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:06:34.755Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:06:34.951Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:07:02.783Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:07:02.823Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:07:02.833Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:07:03.006Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:07:30.203Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:07:32.146Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:07:32.196Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:07:32.200Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:07:32.404Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:09:45.308Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T16:09:49.167Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:09:49.235Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T16:09:49.239Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:09:49.372Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:10:12.166Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:10:14.565Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:10:14.615Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:10:14.622Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:10:14.733Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:11:44.909Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T16:11:47.606Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:11:47.657Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T16:11:47.660Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:11:47.730Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:12:02.214Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:12:04.431Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:12:04.483Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:12:04.484Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:12:04.575Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:13:11.621Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:14:12.466Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:17:02.855Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:18:49.620Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:18:58.494Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:21:01.362Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:21:05.854Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:22:14.865Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:23:17.716Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:23:21.755Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T16:24:58.411Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:25:03.437Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:25:42.691Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:25:50.545Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:26:18.384Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:31:21.826Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:31:42.036Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:31:43.277Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:31:43.350Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:31:43.373Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:31:43.469Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T16:32:42.726Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:32:43.062Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:32:43.110Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:32:43.113Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:32:43.174Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T16:33:16.444Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:33:16.507Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T16:33:16.509Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:33:16.575Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:33:30.291Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:33:30.337Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:33:30.339Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:33:30.399Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:33:35.232Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:33:45.106Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:33:45.146Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:33:45.150Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:33:45.213Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:33:47.995Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:33:48.032Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:33:48.034Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:33:48.094Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:33:56.931Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:33:56.963Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:33:56.965Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:33:57.030Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:34:11.027Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:34:11.633Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:34:11.680Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:34:11.681Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:34:11.761Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:34:25.047Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:34:25.085Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:34:25.087Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:34:25.144Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:35:22.565Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:36:21.433Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:36:21.481Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:36:21.485Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:36:21.552Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:38:04.312Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:38:04.991Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:38:05.043Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:38:05.045Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:38:05.111Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T16:39:30.877Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:39:30.929Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T16:39:30.932Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:39:31.027Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:39:44.340Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:39:45.161Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:39:45.207Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:39:45.210Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:39:45.294Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:40:03.907Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:40:04.515Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:40:04.569Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:40:04.571Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:40:04.634Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:40:19.361Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:40:20.169Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:40:20.212Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:40:20.214Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:40:20.282Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T16:40:35.567Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:40:35.620Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T16:40:35.622Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:40:35.674Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:41:18.717Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:41:18.755Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:41:18.757Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:41:18.804Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:45:30.668Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:45:34.796Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:45:34.829Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:45:34.830Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:45:34.901Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:45:46.477Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:45:47.218Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:45:47.262Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:45:47.264Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:45:47.348Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:46:06.792Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:46:06.818Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:46:06.819Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:46:06.889Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:47:03.043Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:47:03.069Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:47:03.071Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:47:03.142Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:47:18.771Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:47:21.531Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:50:22.999Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:50:23.613Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:50:23.667Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:50:23.669Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:50:23.731Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:50:57.886Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:50:57.930Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:50:57.931Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:50:57.983Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:51:20.524Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:51:20.554Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:51:20.557Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:51:20.615Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:56:15.831Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:56:22.567Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:56:22.605Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:56:22.607Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:56:22.667Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:56:38.684Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:56:39.332Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:56:39.385Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:56:39.386Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:56:39.455Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:56:45.950Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:56:45.981Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:56:45.983Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:56:46.040Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:59:25.689Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T16:59:28.962Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T16:59:29.001Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T16:59:29.003Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:59:29.065Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T16:59:39.458Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T16:59:40.376Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T16:59:40.418Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T16:59:40.421Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:59:40.504Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T16:59:48.349Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T16:59:48.381Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T16:59:48.383Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T16:59:48.444Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:07:50.883Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T17:07:54.038Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T17:07:54.075Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T17:07:54.079Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:07:54.141Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T17:08:13.596Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T17:08:14.198Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T17:08:14.245Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T17:08:14.247Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:08:14.323Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T17:08:20.782Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T17:08:20.807Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T17:08:20.809Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:08:20.860Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:09:29.664Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T17:09:34.708Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T17:09:34.787Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T17:09:34.791Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:09:34.854Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T17:09:56.537Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T17:09:57.227Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T17:09:57.281Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T17:09:57.284Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:09:57.352Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T17:10:06.393Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T17:10:06.425Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T17:10:06.427Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:10:06.498Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:11:15.415Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T17:11:20.574Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T17:11:20.598Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T17:11:20.601Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:11:20.670Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T17:11:44.798Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T17:11:45.867Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T17:11:45.921Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T17:11:45.922Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:11:45.996Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T17:11:52.079Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T17:11:52.113Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T17:11:52.114Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:11:52.178Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T17:11:56.518Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T17:11:56.551Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T17:11:56.553Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:11:56.613Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T17:12:09.767Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T17:12:09.799Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T17:12:09.801Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T17:12:09.858Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:00:23.313Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T19:00:33.440Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T19:00:33.481Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T19:00:33.485Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T19:00:35.377Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T19:00:35.490Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T19:00:35.492Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T19:00:37.301Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T19:00:37.328Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T19:00:37.331Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T19:02:31.807Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T19:02:31.846Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T19:02:31.851Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:02:31.901Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:04:43.553Z"}
+info: Received EditTrip event {"timestamp":"2023-12-11T19:36:49.305Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-11T19:36:49.343Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-11T19:36:49.346Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:36:49.409Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T19:37:00.707Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:37:01.451Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:37:01.507Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:37:01.519Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:37:01.614Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:38:06.717Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:38:07.312Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:38:07.361Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:38:07.364Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:38:07.433Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:38:18.067Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:38:18.644Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:38:18.689Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:38:18.690Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:38:18.759Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:38:38.792Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:38:39.579Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:38:39.625Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:38:39.628Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:38:39.697Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:38:51.146Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:38:51.968Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:38:52.013Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:38:52.015Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:38:52.077Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:39:08.871Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:39:09.582Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:39:09.623Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:39:09.625Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:39:09.680Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:39:42.005Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:39:42.722Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:39:42.765Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:39:42.767Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:39:42.821Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:39:52.470Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:39:52.930Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:39:52.973Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:39:52.976Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:39:53.030Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T19:40:26.541Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:40:27.098Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:40:27.144Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:40:27.146Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:40:27.214Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:40:33.963Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:40:34.573Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:40:34.615Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:40:34.617Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:40:34.684Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:40:37.750Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:40:38.029Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:40:38.074Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:40:38.076Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:40:38.134Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:42:13.915Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:43:49.212Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:44:31.899Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:44:32.541Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:44:32.586Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:44:32.589Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:44:32.652Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:44:41.963Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:44:42.694Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:44:42.737Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:44:42.739Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:44:42.797Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:45:51.434Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:45:52.212Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:45:52.267Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:45:52.272Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:45:52.354Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:47:30.959Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:47:38.415Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:47:39.116Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:47:39.173Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:47:39.174Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:47:39.235Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:53:15.680Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:53:16.287Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:53:16.348Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:53:16.350Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:53:16.417Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:55:04.125Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:55:04.786Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:55:04.881Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:55:04.883Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:55:04.955Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:55:16.076Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:55:16.870Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:55:16.923Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:55:16.925Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:55:16.982Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T19:55:27.811Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T19:55:28.437Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T19:55:28.481Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T19:55:28.483Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T19:55:28.558Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:11:48.433Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:14:52.941Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:15:49.068Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:15:50.168Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:15:50.224Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:15:50.235Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:15:50.365Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:16:50.367Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:16:51.648Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:16:51.694Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:16:51.695Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:16:51.767Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:17:30.015Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:17:30.752Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:17:30.796Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:17:30.810Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:17:30.861Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:20:18.079Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:20:21.738Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:20:21.803Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:20:21.808Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:20:21.856Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:20:34.124Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:20:34.418Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:20:34.469Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:20:34.475Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:20:34.536Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:22:10.469Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:22:13.928Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:22:13.973Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:22:13.974Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:22:14.016Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:22:22.290Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:22:22.875Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:22:22.924Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:22:22.927Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:22:22.981Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:23:26.521Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:23:27.178Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:23:27.221Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:23:27.222Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:23:27.285Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:30:47.514Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:31:03.577Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:31:04.418Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:31:04.469Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:31:04.471Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:31:04.524Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:33:26.422Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:33:26.475Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:33:26.480Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:33:26.537Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:33:27.353Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:33:27.401Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:33:27.403Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:33:27.451Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:33:28.104Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:33:28.153Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:33:28.154Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:33:28.197Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:33:29.013Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:33:29.060Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:33:29.062Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:33:29.104Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:33:35.284Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:33:35.985Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:33:36.033Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:33:36.037Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:33:36.100Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:33:55.108Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:34:09.509Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:34:10.168Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:34:10.218Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:34:10.220Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:34:10.283Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:35:11.726Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:35:11.985Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:35:12.029Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:35:12.030Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:35:12.076Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:35:56.446Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:35:56.512Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:35:56.515Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:35:56.597Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:35:57.686Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:35:57.736Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:35:57.737Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:35:57.778Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:35:59.390Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:35:59.441Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:35:59.442Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:35:59.483Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:36:12.037Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:36:12.555Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:36:12.603Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:36:12.607Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:36:12.676Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:37:40.454Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:37:44.412Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:37:44.468Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:37:44.474Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:37:44.590Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:37:57.032Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:37:57.971Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:37:58.026Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:37:58.031Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:37:58.125Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:39:00.570Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:39:01.229Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:39:01.280Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:39:01.295Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:39:01.354Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:39:26.745Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:39:26.789Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:39:26.791Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:39:26.839Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:39:39.699Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:39:40.617Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:39:40.661Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:39:40.663Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:39:40.714Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:41:34.108Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:41:37.524Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:41:37.579Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:41:37.585Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:41:37.645Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:41:56.812Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:41:58.157Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:41:58.233Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:41:58.238Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:41:58.340Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:44:35.688Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:44:39.346Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:44:39.408Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:44:39.410Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:44:39.455Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:44:54.241Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:44:54.599Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:44:54.642Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:44:54.646Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:44:54.694Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:45:18.093Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:45:18.761Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:45:18.804Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:45:18.819Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:45:18.875Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:48:01.159Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:48:41.766Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:48:43.439Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:48:43.490Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:48:43.492Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:48:43.543Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:49:08.879Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:49:10.769Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:49:10.814Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:49:10.817Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:49:10.873Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:49:27.017Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:49:29.005Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:49:29.048Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:49:29.050Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:49:29.097Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:49:48.070Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:50:05.861Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:50:07.405Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:50:07.450Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:50:07.451Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:50:07.502Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:50:22.572Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:50:24.712Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:50:24.755Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:50:24.756Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:50:24.810Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:50:49.994Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:50:50.823Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:50:50.873Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:50:50.874Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:50:50.921Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:51:09.898Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:51:10.685Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:51:10.729Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:51:10.731Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:51:10.780Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:56:03.436Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:56:04.938Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:56:08.891Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:56:08.955Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:56:08.960Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:56:09.003Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:56:10.136Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:56:10.179Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:56:10.181Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:56:10.220Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:56:11.322Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:56:11.373Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:56:11.374Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:56:11.412Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:56:37.744Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:56:42.021Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:56:42.068Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:56:42.073Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:56:42.146Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:57:17.150Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:57:19.843Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:57:19.889Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:57:19.890Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:57:19.948Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:57:59.937Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:58:02.169Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:58:02.216Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:58:02.217Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:58:02.267Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T20:58:14.015Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:58:14.508Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:58:14.558Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:58:14.559Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:58:14.613Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:58:18.304Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:58:28.845Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:58:28.896Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:58:28.898Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:58:28.941Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:58:46.608Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:58:48.094Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:58:48.137Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:58:48.138Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:58:48.187Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:59:07.763Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T20:59:13.138Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:59:13.187Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T20:59:13.188Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:59:13.245Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T20:59:33.222Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T20:59:34.476Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T20:59:34.523Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T20:59:34.525Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T20:59:34.579Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T21:00:30.275Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T21:00:30.311Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T21:00:30.313Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:00:30.365Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:00:48.142Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:00:50.258Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:00:50.301Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:00:50.304Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:00:50.354Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:01:03.369Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:01:03.991Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:01:04.034Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:01:04.036Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:01:04.105Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:05:12.742Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:05:33.375Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:05:34.008Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:05:34.078Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:05:34.081Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:05:34.137Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:11:09.551Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T21:11:13.807Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T21:11:13.837Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T21:11:13.839Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:11:13.889Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T21:11:18.663Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T21:11:18.701Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T21:11:18.702Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:11:18.750Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:11:28.240Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:11:29.648Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:11:29.689Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:11:29.691Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:11:29.744Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:11:41.910Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:11:43.774Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:11:43.816Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:11:43.817Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:11:43.874Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:18:02.377Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T21:18:04.773Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T21:18:04.800Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T21:18:04.804Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:18:04.848Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T21:18:10.083Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T21:18:10.126Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T21:18:10.131Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:18:10.189Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:18:23.397Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:18:24.382Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:20:48.287Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:21:07.632Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:21:09.246Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:21:09.306Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:21:09.311Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:21:09.373Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:21:34.882Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:21:36.070Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:21:36.141Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:21:36.143Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:21:36.376Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T21:24:59.843Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T21:24:59.871Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T21:24:59.875Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:24:59.950Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T21:25:07.411Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T21:25:07.452Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T21:25:07.456Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:25:07.518Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:25:24.264Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:25:25.284Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:28:14.531Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:28:29.148Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:28:30.092Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:28:30.152Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:28:30.159Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:28:30.225Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:28:51.700Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:28:53.130Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:28:53.177Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:28:53.180Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:28:53.230Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:29:47.023Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:29:47.532Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:29:47.574Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:29:47.575Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:29:47.629Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:33:28.116Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:33:45.785Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:33:46.621Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:33:46.675Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:33:46.690Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:33:46.760Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:35:15.149Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:35:23.153Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:35:23.776Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:35:23.826Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:35:23.828Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:35:23.896Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:37:00.177Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:37:01.463Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:37:01.525Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:37:01.527Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:37:01.597Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T21:38:06.109Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T21:38:06.224Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T21:38:06.230Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:38:06.311Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T21:38:11.945Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T21:38:11.975Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T21:38:11.978Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:38:12.050Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:38:21.215Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:38:24.000Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:38:24.052Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:38:24.054Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:38:24.128Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:38:34.454Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:38:35.367Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:38:35.410Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:38:35.412Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:38:35.477Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:39:02.446Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:39:03.419Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:39:03.467Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:39:03.469Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:39:03.531Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:39:59.436Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T21:40:05.659Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:40:07.215Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:40:07.257Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:40:07.258Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:40:07.319Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T21:40:26.341Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:40:27.489Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:40:27.535Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:40:27.536Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:40:27.612Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T21:40:35.316Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T21:40:35.346Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T21:40:35.348Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:40:35.400Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T21:40:38.966Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:40:39.014Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T21:40:39.015Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:40:39.093Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:40:52.123Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:40:52.784Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:40:52.833Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:40:52.834Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:40:52.899Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:45:40.160Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T21:46:10.265Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T21:46:11.662Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T21:46:11.714Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T21:46:11.716Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:46:11.770Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T21:48:56.344Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T21:48:56.373Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T21:48:56.375Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T21:49:13.181Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T21:49:13.221Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T21:49:13.223Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T21:49:13.269Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:29:34.155Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:29:37.598Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T22:29:43.958Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:29:45.058Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:29:45.143Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:29:45.160Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:29:45.336Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:30:29.848Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T22:31:04.569Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:31:05.689Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:31:05.740Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:31:05.744Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:31:05.899Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T22:31:16.593Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:31:17.401Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:31:17.446Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:31:17.447Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:31:17.523Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T22:31:44.014Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:31:44.943Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:31:44.988Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:31:45.003Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:31:45.062Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:34:27.457Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T22:35:56.683Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:35:57.954Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:35:58.012Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:35:58.016Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:35:58.144Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T22:37:16.418Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:37:17.345Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:37:17.390Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:37:17.391Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:37:17.464Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:38:53.647Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T22:39:11.843Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:39:12.481Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:39:12.540Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:39:12.544Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:39:12.674Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:40:33.182Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T22:40:42.227Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:40:43.063Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:40:43.116Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:40:43.118Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:40:43.194Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T22:40:50.503Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:40:51.255Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:40:51.298Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:40:51.305Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:40:51.364Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T22:40:58.613Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:40:58.656Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T22:40:58.658Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:40:58.703Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T22:41:01.367Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:41:01.416Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T22:41:01.418Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:41:01.457Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:43:23.558Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T22:44:41.220Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:44:42.050Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:44:42.108Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:44:42.113Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:44:42.249Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T22:45:55.043Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:45:56.310Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:45:56.357Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:45:56.359Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:45:56.432Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T22:46:22.745Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:46:22.795Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T22:46:22.797Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:46:22.849Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T22:46:40.921Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T22:46:40.956Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T22:46:40.958Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:46:41.019Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T22:47:06.651Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T22:47:07.295Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T22:47:07.344Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T22:47:07.345Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:47:07.399Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T22:47:35.214Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T22:47:35.240Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T22:47:35.241Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:47:35.284Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:56:02.379Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T22:58:26.952Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:00:05.038Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:02:36.095Z"}
+info: Received EditPlan event {"timestamp":"2023-12-11T23:04:07.374Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T23:04:08.545Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T23:04:08.610Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T23:04:08.620Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:04:08.752Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T23:05:01.839Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T23:05:02.537Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T23:05:02.585Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T23:05:02.590Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:05:02.659Z"}
+info: Received DeletePlan event {"timestamp":"2023-12-11T23:05:44.052Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T23:05:44.103Z"}
+info: Successful processing of DeletePlan event {"timestamp":"2023-12-11T23:05:44.106Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:05:44.152Z"}
+info: Received CreateTrip event {"timestamp":"2023-12-11T23:06:09.500Z"}
+info: Created Trip in DB {"timestamp":"2023-12-11T23:06:09.539Z"}
+info: Successful processing of CreateTrip event {"timestamp":"2023-12-11T23:06:09.541Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:06:09.602Z"}
+info: Received CreatePlan event {"timestamp":"2023-12-11T23:06:31.612Z"}
+info: Received LocationAppended event {"timestamp":"2023-12-11T23:06:32.303Z"}
+info: Updated Plan for Trip in Database {"timestamp":"2023-12-11T23:06:32.344Z"}
+info: Successful processing of LocationAppended event {"timestamp":"2023-12-11T23:06:32.350Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:06:32.400Z"}
+info: Received DeleteTrip event {"timestamp":"2023-12-11T23:07:07.899Z"}
+info: Deleted Trip in DB {"timestamp":"2023-12-11T23:07:07.929Z"}
+info: Successful processing of DeleteTrip event {"timestamp":"2023-12-11T23:07:07.932Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:07:07.981Z"}
+info: Received EditTrip event {"timestamp":"2023-12-11T23:07:15.796Z"}
+info: Updated Trip in DB {"timestamp":"2023-12-11T23:07:15.822Z"}
+info: Successful processing of EditTrip event {"timestamp":"2023-12-11T23:07:15.824Z"}
+info: Sent the entire collection to Client {"timestamp":"2023-12-11T23:07:15.872Z"}

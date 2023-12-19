@@ -1,0 +1,857 @@
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:27:04.758Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:29:24.506Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:31:36.893Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:33:19.117Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:34:37.514Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-07T21:34:38.366Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:34:38.484Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:34:38.498Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-07T21:35:05.088Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:35:05.202Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:41:13.873Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-07T21:41:14.771Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:41:14.992Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:41:15.003Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-07T21:44:51.163Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:44:51.380Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:47:33.318Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-07T21:47:34.156Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:47:34.371Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:47:34.382Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-07T21:47:48.041Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:47:48.266Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:50:00.650Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-07T21:52:06.960Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-07T21:52:07.760Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:52:07.978Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T21:52:07.989Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-07T22:21:16.140Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-07T22:21:17.249Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T22:21:17.603Z"}
+info: Event pushed to every service {"timestamp":"2023-12-07T22:21:17.613Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-10T05:17:00.254Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T05:17:00.526Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-10T16:23:27.150Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:23:27.374Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-10T16:27:39.940Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:27:40.189Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-10T16:27:59.624Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:27:59.814Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-10T16:39:52.424Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T16:39:53.253Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:39:53.493Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:39:53.504Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T16:41:57.773Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:41:58.026Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T16:41:58.611Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:41:58.692Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T16:41:59.496Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:41:59.583Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-10T16:42:22.238Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T16:42:23.126Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:42:23.364Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:42:23.375Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-10T16:56:06.806Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T16:56:07.822Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:56:08.067Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:56:08.079Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T16:56:26.028Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:56:26.243Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T16:56:26.784Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:56:26.875Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-10T16:57:29.402Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T16:57:30.399Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:57:30.586Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T16:57:30.596Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-10T18:32:34.850Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:32:35.074Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-10T18:33:37.801Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T18:33:38.978Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:33:39.204Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:33:39.215Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T18:34:15.480Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:34:15.652Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-10T18:40:32.356Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T18:40:33.365Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:40:33.568Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:40:33.579Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-10T18:41:28.795Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T18:41:29.654Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:41:29.753Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:41:29.761Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T18:44:41.814Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T18:44:41.915Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-10T19:24:01.617Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T19:24:02.280Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:24:02.556Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:24:02.563Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-10T19:29:14.348Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T19:29:15.251Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:29:15.490Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:29:15.500Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-10T19:31:05.851Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:31:06.060Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-10T19:31:19.241Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T19:31:20.075Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:31:20.231Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:31:20.241Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-10T19:33:18.295Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T19:33:18.838Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:33:18.951Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:33:18.957Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-10T19:33:33.155Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T19:33:33.893Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:33:33.980Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:33:33.985Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-10T19:33:48.802Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T19:33:49.558Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:33:49.642Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:33:49.647Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-10T19:39:29.921Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T19:39:30.961Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:39:31.181Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:39:31.190Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-10T19:40:48.248Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-10T19:40:49.053Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:40:49.251Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:40:49.261Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T19:41:00.609Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:41:00.782Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-10T19:41:02.354Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:41:02.443Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-10T19:41:15.034Z"}
+info: Event pushed to every service {"timestamp":"2023-12-10T19:41:15.103Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T02:52:58.529Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T02:52:58.804Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T02:53:33.106Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T02:53:33.342Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T02:53:33.564Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T02:53:33.583Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T02:58:55.751Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T02:58:56.007Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T02:59:15.355Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T02:59:16.100Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T02:59:16.260Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T02:59:16.268Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:01:45.719Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:01:46.759Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:01:46.882Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:01:46.890Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T03:02:05.381Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:02:05.462Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T03:02:06.182Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:02:06.274Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T03:02:06.836Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:02:06.919Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T03:02:12.638Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:02:12.708Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T03:07:02.913Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:07:02.989Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:07:50.420Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:07:51.242Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:07:51.330Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:07:51.339Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T03:22:55.098Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:22:55.379Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T03:23:48.421Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:23:48.687Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T03:27:16.203Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:27:16.472Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:28:03.127Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:28:03.427Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:28:03.693Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:28:03.715Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T03:28:52.895Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:28:53.780Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:28:53.976Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:28:53.988Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T03:33:51.539Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:33:51.801Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:34:08.813Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:34:09.050Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:34:55.639Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:34:55.873Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:34:56.062Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:34:56.085Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T03:35:39.299Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:35:39.447Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:36:01.488Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:36:02.640Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:36:02.750Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:36:02.762Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:37:54.184Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:37:54.980Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:37:55.199Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:37:55.211Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T03:38:19.111Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:38:19.374Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-11T03:38:49.429Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:38:49.616Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-11T03:39:07.242Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:39:07.411Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-11T03:39:12.396Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:39:12.475Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T03:39:44.198Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:39:45.240Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:39:45.329Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:39:45.336Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T03:40:03.078Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:40:03.207Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:40:03.315Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:40:03.337Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T03:40:35.214Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:40:35.370Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:41:58.191Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:41:58.884Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:41:58.974Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:41:58.977Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T03:48:12.802Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:48:13.052Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:48:54.656Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:48:56.027Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:48:56.304Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:48:56.315Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T03:49:22.911Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:49:24.291Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:49:24.493Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:49:24.509Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:50:03.500Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:50:04.207Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:50:04.317Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:50:04.326Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:51:17.941Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:51:18.951Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:51:19.037Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:51:19.043Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T03:51:51.587Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:51:51.673Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-11T03:52:15.541Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:52:15.609Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T03:52:42.911Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:52:42.966Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T03:56:27.444Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:56:27.678Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:57:40.398Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:57:41.632Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:57:41.868Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:57:41.883Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T03:58:31.768Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:58:33.034Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:58:33.222Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:58:33.234Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T03:59:27.934Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T03:59:28.294Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:59:28.390Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T03:59:28.397Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T04:00:08.413Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:00:08.500Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-11T04:00:34.082Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:00:34.162Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T04:00:43.213Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:00:43.272Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T04:06:09.592Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T04:06:11.096Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:06:11.349Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:06:11.361Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T04:07:22.892Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T04:07:23.968Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:07:24.165Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:07:24.179Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T04:07:53.367Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T04:07:54.323Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:07:54.442Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:07:54.454Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T04:08:17.380Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:08:17.471Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-11T04:08:50.816Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:08:50.880Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T04:09:17.552Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:09:17.619Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T04:09:24.242Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:09:24.312Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T04:48:58.431Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T04:48:59.951Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:49:00.183Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:49:00.193Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T04:49:59.887Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T04:50:00.897Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:50:01.128Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:50:01.144Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T04:50:28.423Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:50:28.600Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T04:51:12.881Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:51:12.958Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T04:51:32.349Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T04:51:33.140Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:51:33.217Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:51:33.223Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T04:51:48.041Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T04:51:48.109Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T05:09:22.535Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T05:09:22.596Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T05:09:22.688Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T05:09:22.699Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:06:34.434Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:06:34.872Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:07:02.651Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:07:02.932Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:07:30.086Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:07:32.032Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:07:32.322Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:07:32.343Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T16:09:49.063Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:09:49.327Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:10:12.120Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:10:14.543Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:10:14.658Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:10:14.681Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T16:11:47.589Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:11:47.689Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:12:02.189Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:12:04.414Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:12:04.514Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:12:04.522Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T16:24:58.318Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:25:42.624Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:26:18.338Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:31:41.942Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:31:43.263Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:31:43.393Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:31:43.410Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T16:32:42.691Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:32:43.050Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:32:43.131Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:32:43.141Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T16:33:16.426Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:33:16.527Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:33:30.279Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:33:30.359Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:33:45.089Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:33:45.172Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:33:47.982Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:33:48.056Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:33:56.910Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:33:56.990Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:34:11.010Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:34:11.616Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:34:11.707Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:34:11.714Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:34:25.032Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:34:25.106Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:36:21.393Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:36:21.510Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:38:04.294Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:38:04.979Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:38:05.066Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:38:05.076Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T16:39:30.863Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:39:30.983Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:39:44.322Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:39:45.147Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:39:45.234Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:39:45.249Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:40:03.892Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:40:04.503Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:40:04.587Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:40:04.601Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:40:19.345Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:40:20.162Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:40:20.231Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:40:20.245Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T16:40:35.556Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:40:35.639Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:41:18.703Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:41:18.773Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:45:34.776Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:45:34.857Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:45:46.464Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:45:47.205Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:45:47.293Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:45:47.299Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:46:06.778Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:46:06.847Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:47:03.026Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:47:03.098Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:50:22.982Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:50:23.603Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:50:23.685Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:50:23.692Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:50:57.874Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:50:57.950Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:51:20.510Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:51:20.577Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:56:22.545Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:56:22.628Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:56:38.671Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:56:39.322Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:56:39.404Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:56:39.414Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:56:45.931Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:56:45.999Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T16:59:28.948Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:59:29.025Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T16:59:39.446Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T16:59:40.367Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:59:40.440Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:59:40.455Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T16:59:48.334Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T16:59:48.404Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T17:07:53.989Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:07:54.100Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T17:08:13.576Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T17:08:14.185Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:08:14.270Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:08:14.281Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T17:08:20.768Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:08:20.828Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T17:09:34.689Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:09:34.811Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T17:09:56.526Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T17:09:57.217Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:09:57.302Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:09:57.311Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T17:10:06.378Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:10:06.454Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T17:11:20.552Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:11:20.624Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T17:11:44.782Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T17:11:45.858Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:11:45.939Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:11:45.949Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T17:11:52.065Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:11:52.134Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T17:11:56.496Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:11:56.572Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T17:12:09.753Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T17:12:09.821Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T19:00:33.331Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:00:33.569Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T19:00:35.361Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:00:35.517Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T19:00:37.287Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:00:37.357Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T19:02:31.772Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:02:31.868Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-11T19:36:49.275Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:36:49.372Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T19:37:00.691Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:37:01.440Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:37:01.535Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:37:01.552Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:38:06.635Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:38:07.298Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:38:07.389Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:38:07.396Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:38:18.019Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:38:18.636Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:38:18.711Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:38:18.719Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:38:38.736Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:38:39.570Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:38:39.651Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:38:39.660Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:38:51.101Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:38:51.960Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:38:52.032Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:38:52.042Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:39:08.846Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:39:09.572Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:39:09.642Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:39:09.646Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:39:41.954Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:39:42.709Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:39:42.784Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:39:42.789Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:39:52.382Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:39:52.917Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:39:52.992Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:39:52.999Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T19:40:26.521Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:40:27.085Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:40:27.166Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:40:27.174Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:40:33.952Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:40:34.562Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:40:34.634Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:40:34.639Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:40:37.729Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:40:38.019Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:40:38.090Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:40:38.096Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:44:31.800Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:44:32.532Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:44:32.609Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:44:32.620Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:44:41.904Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:44:42.684Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:44:42.759Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:44:42.766Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:45:51.369Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:45:52.203Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:45:52.281Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:45:52.285Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:47:38.324Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:47:39.106Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:47:39.192Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:47:39.202Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:53:15.503Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:53:16.276Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:53:16.369Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:53:16.380Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:55:03.989Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:55:04.775Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:55:04.902Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:55:04.913Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:55:16.018Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:55:16.858Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:55:16.939Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:55:16.947Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T19:55:27.769Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T19:55:28.429Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:55:28.502Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T19:55:28.510Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:15:48.880Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:15:50.081Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:15:50.297Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:15:50.307Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:16:50.248Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:16:51.619Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:16:51.712Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:16:51.719Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:17:30.001Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:17:30.726Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:17:30.816Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:17:30.821Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:20:21.705Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:20:21.827Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:20:34.092Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:20:34.390Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:20:34.491Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:20:34.495Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:22:13.917Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:22:13.989Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:22:22.280Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:22:22.862Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:22:22.944Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:22:22.949Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:23:26.491Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:23:27.166Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:23:27.240Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:23:27.247Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:31:03.547Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:31:04.407Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:31:04.488Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:31:04.492Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:33:26.395Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:33:26.496Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:33:27.342Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:33:27.418Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:33:28.096Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:33:28.166Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:33:29.004Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:33:29.077Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:33:35.248Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:33:35.954Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:33:36.049Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:33:36.057Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:34:09.480Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:34:10.157Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:34:10.239Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:34:10.243Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:35:11.691Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:35:11.976Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:35:12.045Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:35:12.048Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:35:56.416Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:35:56.530Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:35:57.676Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:35:57.751Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:35:59.381Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:35:59.456Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:36:12.000Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:36:12.524Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:36:12.620Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:36:12.627Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:37:44.319Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:37:44.544Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:37:56.950Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:37:57.847Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:37:58.071Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:37:58.080Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:39:00.539Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:39:01.213Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:39:01.302Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:39:01.308Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:39:26.733Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:39:26.809Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:39:39.682Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:39:40.604Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:39:40.682Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:39:40.686Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:41:37.488Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:41:37.604Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:41:56.776Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:41:58.126Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:41:58.255Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:41:58.260Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:44:39.336Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:44:39.427Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:44:54.221Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:44:54.585Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:44:54.661Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:44:54.666Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:45:18.054Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:45:18.749Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:45:18.829Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:45:18.838Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:48:41.734Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:48:43.428Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:48:43.508Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:48:43.511Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:49:08.863Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:49:10.759Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:49:10.834Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:49:10.839Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:49:27.000Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:49:28.996Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:49:29.064Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:49:29.069Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:49:48.049Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:50:05.844Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:50:07.394Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:50:07.467Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:50:07.471Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:50:22.557Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:50:24.701Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:50:24.774Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:50:24.778Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:50:49.980Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:50:50.813Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:50:50.888Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:50:50.892Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:51:09.881Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:51:10.675Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:51:10.744Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:51:10.748Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:56:08.862Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:56:08.976Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:56:10.123Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:56:10.193Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:56:11.314Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:56:11.387Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:56:37.703Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:56:41.989Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:56:42.090Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:56:42.098Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:57:17.119Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:57:19.831Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:57:19.906Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:57:19.911Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:57:59.920Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:58:02.144Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:58:02.234Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:58:02.239Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T20:58:14.002Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:58:14.496Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:58:14.573Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:58:14.580Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:58:28.834Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:58:28.912Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:58:46.597Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:58:48.084Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:58:48.152Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:58:48.157Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T20:59:13.127Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:59:13.209Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T20:59:33.212Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T20:59:34.468Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:59:34.542Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T20:59:34.547Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T21:00:30.260Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:00:30.326Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:00:48.133Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:00:50.249Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:00:50.317Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:00:50.321Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:01:03.359Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:01:03.981Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:01:04.055Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:01:04.062Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:05:33.364Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:05:34.000Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:05:34.098Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:05:34.103Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T21:11:13.798Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:11:13.855Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T21:11:18.655Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:11:18.713Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:11:28.230Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:11:29.634Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:11:29.705Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:11:29.710Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:11:41.900Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:11:43.766Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:11:43.831Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:11:43.836Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T21:18:04.745Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:18:04.816Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T21:18:10.053Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:18:10.144Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:18:23.363Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:18:24.354Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:21:07.601Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:21:09.216Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:21:09.323Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:21:09.327Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:21:34.854Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:21:36.047Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:21:36.158Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:21:36.163Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T21:24:59.814Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:24:59.886Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T21:25:07.380Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:25:07.469Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:25:24.232Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:25:25.274Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:28:29.117Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:28:30.063Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:28:30.173Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:28:30.178Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:28:51.669Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:28:53.106Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:28:53.189Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:28:53.194Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:29:47.012Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:29:47.508Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:29:47.588Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:29:47.593Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:33:45.711Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:33:46.606Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:33:46.710Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:33:46.718Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:35:23.118Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:35:23.764Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:35:23.848Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:35:23.857Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:37:00.125Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:37:01.453Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:37:01.545Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:37:01.554Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T21:38:06.062Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:38:06.248Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T21:38:11.926Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:38:12.004Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:38:21.201Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:38:23.989Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:38:24.079Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:38:24.087Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:38:34.439Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:38:35.357Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:38:35.429Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:38:35.438Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:39:02.433Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:39:03.411Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:39:03.489Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:39:03.496Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T21:40:05.640Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:40:07.208Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:40:07.276Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:40:07.282Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T21:40:26.321Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:40:27.480Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:40:27.558Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:40:27.569Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T21:40:35.304Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:40:35.364Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T21:40:38.947Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:40:39.032Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:40:52.094Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:40:52.775Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:40:52.852Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:40:52.862Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T21:46:10.230Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T21:46:11.653Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:46:11.732Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:46:11.737Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T21:48:56.333Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:48:56.392Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T21:49:13.171Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T21:49:13.239Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T22:29:43.868Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:29:44.974Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:29:45.216Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:29:45.227Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T22:31:04.401Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:31:05.605Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:31:05.819Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:31:05.833Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T22:31:16.519Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:31:17.367Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:31:17.461Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:31:17.468Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T22:31:44.001Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:31:44.914Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:31:45.013Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:31:45.020Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T22:35:56.469Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:35:57.870Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:35:58.081Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:35:58.091Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T22:37:16.337Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:37:17.312Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:37:17.406Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:37:17.414Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T22:39:11.683Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:39:12.392Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:39:12.606Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:39:12.617Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T22:40:42.127Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:40:43.048Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:40:43.136Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:40:43.144Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T22:40:50.457Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:40:51.228Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:40:51.319Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:40:51.322Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T22:40:58.597Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:40:58.675Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T22:41:01.357Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:41:01.431Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T22:44:40.890Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:44:41.961Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:44:42.176Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:44:42.187Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T22:45:54.957Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:45:56.280Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:45:56.375Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:45:56.386Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T22:46:22.735Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:46:22.819Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T22:46:40.907Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:46:40.976Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T22:47:06.639Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T22:47:07.283Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:47:07.362Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:47:07.366Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T22:47:35.201Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T22:47:35.256Z"}
+info: Recieved EditPlan event {"timestamp":"2023-12-11T23:04:07.207Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T23:04:08.451Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:04:08.685Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:04:08.698Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T23:05:01.757Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T23:05:02.509Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:05:02.602Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:05:02.610Z"}
+info: Recieved DeletePlan event {"timestamp":"2023-12-11T23:05:44.040Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:05:44.123Z"}
+info: Recieved CreateTrip event {"timestamp":"2023-12-11T23:06:09.485Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:06:09.559Z"}
+info: Recieved CreatePlan event {"timestamp":"2023-12-11T23:06:31.596Z"}
+info: Recieved LocationAppended event {"timestamp":"2023-12-11T23:06:32.292Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:06:32.365Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:06:32.370Z"}
+info: Recieved DeleteTrip event {"timestamp":"2023-12-11T23:07:07.883Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:07:07.950Z"}
+info: Recieved EditTrip event {"timestamp":"2023-12-11T23:07:15.777Z"}
+info: Event pushed to every service {"timestamp":"2023-12-11T23:07:15.840Z"}

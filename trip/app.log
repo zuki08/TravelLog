@@ -1,0 +1,583 @@
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:27:04.897Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:29:24.635Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:31:36.987Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:33:19.214Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:34:37.618Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-07T21:34:38.449Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-07T21:35:05.166Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:41:13.999Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-07T21:41:14.959Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-07T21:44:51.345Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:47:33.440Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-07T21:47:34.335Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-07T21:47:48.224Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:50:00.733Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-07T21:52:07.086Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-07T21:52:07.944Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-07T22:21:16.352Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-07T22:21:17.567Z"}
+info: Editing a trip {"timestamp":"2023-12-10T05:17:00.162Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-10T05:17:00.480Z"}
+info: Successful edit of trip {"timestamp":"2023-12-10T05:17:00.545Z"}
+info: Editing a trip {"timestamp":"2023-12-10T16:23:27.082Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-10T16:23:27.328Z"}
+info: Successful edit of trip {"timestamp":"2023-12-10T16:23:27.389Z"}
+info: Editing a trip {"timestamp":"2023-12-10T16:27:39.872Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-10T16:27:40.140Z"}
+info: Successful edit of trip {"timestamp":"2023-12-10T16:27:40.205Z"}
+info: Editing a trip {"timestamp":"2023-12-10T16:27:59.558Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-10T16:27:59.777Z"}
+info: Successful edit of trip {"timestamp":"2023-12-10T16:27:59.830Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-10T16:39:52.554Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T16:39:53.457Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T16:41:57.986Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T16:41:58.678Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T16:41:59.573Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-10T16:42:22.384Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T16:42:23.328Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-10T16:56:06.958Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T16:56:08.029Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T16:56:26.205Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T16:56:26.861Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-10T16:57:29.497Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T16:57:30.549Z"}
+info: Editing a trip {"timestamp":"2023-12-10T18:32:34.781Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-10T18:32:35.032Z"}
+info: Successful edit of trip {"timestamp":"2023-12-10T18:32:35.090Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-10T18:33:37.931Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T18:33:39.166Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T18:34:15.616Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-10T18:40:32.461Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T18:40:33.555Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-10T18:41:28.847Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T18:41:29.742Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T18:44:41.900Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-10T19:24:01.644Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T19:24:02.546Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-10T19:29:14.491Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T19:29:15.453Z"}
+info: Editing a trip {"timestamp":"2023-12-10T19:31:05.793Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-10T19:31:06.022Z"}
+info: Successful edit of trip {"timestamp":"2023-12-10T19:31:06.075Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-10T19:31:19.339Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T19:31:20.187Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-10T19:33:18.345Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T19:33:18.939Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-10T19:33:33.210Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T19:33:33.969Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-10T19:33:48.827Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T19:33:49.631Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-10T19:39:30.067Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T19:39:31.143Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-10T19:40:48.389Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-10T19:40:49.212Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T19:41:00.740Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-10T19:41:02.428Z"}
+info: Deleting a Trip {"timestamp":"2023-12-10T19:41:14.995Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-10T19:41:15.090Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-10T19:41:15.112Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T02:52:58.758Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T02:53:33.253Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T02:53:33.527Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T02:58:55.957Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T02:59:15.493Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T02:59:16.215Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:01:45.751Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:01:46.843Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T03:02:05.451Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T03:02:06.259Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T03:02:06.906Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T03:02:12.599Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T03:02:12.692Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T03:02:12.729Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T03:07:02.867Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T03:07:02.973Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T03:07:03.005Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:07:50.453Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:07:51.318Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T03:22:55.014Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T03:22:55.316Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T03:22:55.399Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T03:23:48.355Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T03:23:48.626Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T03:23:48.713Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T03:27:16.119Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T03:27:16.419Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T03:27:16.490Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:28:03.305Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:28:03.646Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T03:28:52.995Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:28:53.932Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T03:33:51.748Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:34:08.953Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:34:55.755Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:34:56.021Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T03:35:39.399Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:36:01.517Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:36:02.725Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:37:54.333Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:37:55.164Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T03:38:19.047Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T03:38:19.315Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T03:38:19.395Z"}
+info: Editing a trip {"timestamp":"2023-12-11T03:38:49.366Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-11T03:38:49.562Z"}
+info: Successful edit of trip {"timestamp":"2023-12-11T03:38:49.665Z"}
+info: Editing a trip {"timestamp":"2023-12-11T03:39:07.173Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-11T03:39:07.368Z"}
+info: Successful edit of trip {"timestamp":"2023-12-11T03:39:07.436Z"}
+info: Editing a trip {"timestamp":"2023-12-11T03:39:12.346Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-11T03:39:12.463Z"}
+info: Successful edit of trip {"timestamp":"2023-12-11T03:39:12.486Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T03:39:44.295Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:39:45.308Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T03:40:03.118Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:40:03.294Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T03:40:35.354Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:41:58.220Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:41:58.962Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T03:48:12.733Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T03:48:12.997Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T03:48:13.067Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:48:54.823Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:48:56.255Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T03:49:23.164Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:49:24.446Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:50:03.526Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:50:04.303Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:51:17.966Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:51:19.024Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T03:51:51.662Z"}
+info: Editing a trip {"timestamp":"2023-12-11T03:52:15.494Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-11T03:52:15.597Z"}
+info: Successful edit of trip {"timestamp":"2023-12-11T03:52:15.621Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T03:52:42.871Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T03:52:42.955Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T03:52:42.977Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T03:56:27.386Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T03:56:27.629Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T03:56:27.694Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:57:40.539Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:57:41.828Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T03:58:32.011Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:58:33.183Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T03:59:27.953Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T03:59:28.381Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T04:00:08.488Z"}
+info: Editing a trip {"timestamp":"2023-12-11T04:00:34.039Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-11T04:00:34.149Z"}
+info: Successful edit of trip {"timestamp":"2023-12-11T04:00:34.175Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T04:00:43.175Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T04:00:43.259Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T04:00:43.282Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T04:06:09.734Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T04:06:11.297Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T04:07:23.150Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T04:07:24.124Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T04:07:53.553Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T04:07:54.421Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T04:08:17.458Z"}
+info: Editing a trip {"timestamp":"2023-12-11T04:08:50.771Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-11T04:08:50.867Z"}
+info: Successful edit of trip {"timestamp":"2023-12-11T04:08:50.891Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T04:09:17.509Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T04:09:17.605Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T04:09:17.634Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T04:09:24.202Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T04:09:24.298Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T04:09:24.328Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T04:48:58.701Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T04:49:00.145Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T04:50:00.038Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T04:50:01.088Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T04:50:28.558Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T04:51:12.842Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T04:51:12.946Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T04:51:12.969Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T04:51:32.374Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T04:51:33.204Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T04:51:47.998Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T04:51:48.096Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T04:51:48.121Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T05:09:22.553Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T05:09:22.679Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:06:34.347Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:06:34.800Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:06:34.902Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:07:02.570Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:07:02.879Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:07:02.958Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:07:30.230Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:07:32.245Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T16:09:49.255Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:10:12.192Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:10:14.633Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T16:11:47.668Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:12:02.235Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:12:04.493Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T16:24:58.428Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:25:42.702Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:26:18.398Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:31:42.088Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:31:43.359Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T16:32:42.754Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:32:43.119Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T16:33:16.515Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:33:30.235Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:33:30.346Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:33:30.371Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:33:45.080Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:33:45.157Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:33:45.177Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:33:47.978Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:33:48.040Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:33:48.060Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:33:56.902Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:33:56.971Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:33:56.997Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:34:11.038Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:34:11.688Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:34:25.026Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:34:25.093Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:34:25.109Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:36:21.385Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:36:21.494Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:36:21.520Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:38:04.327Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:38:05.052Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T16:39:30.942Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:39:44.350Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:39:45.215Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:40:03.914Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:40:04.576Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:40:19.372Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:40:20.218Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T16:40:35.627Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:41:18.698Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:41:18.762Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:41:18.776Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:45:34.752Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:45:34.837Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:45:34.863Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:45:46.488Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:45:47.268Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:46:06.773Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:46:06.830Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:46:06.853Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:47:03.022Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:47:03.080Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:47:03.106Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:50:23.010Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:50:23.675Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:50:57.869Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:50:57.938Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:50:57.954Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:51:20.504Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:51:20.561Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:51:20.580Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:56:22.536Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:56:22.613Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:56:22.632Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:56:38.692Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:56:39.390Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:56:45.924Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:56:45.989Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:56:46.006Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T16:59:28.941Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T16:59:29.011Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T16:59:29.031Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T16:59:39.465Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T16:59:40.425Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T16:59:48.327Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T16:59:48.392Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T16:59:48.408Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T17:07:53.979Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T17:07:54.087Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T17:07:54.105Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T17:08:13.606Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T17:08:14.254Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T17:08:20.763Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T17:08:20.818Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T17:08:20.830Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T17:09:34.684Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T17:09:34.797Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T17:09:34.818Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T17:09:56.546Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T17:09:57.288Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T17:10:06.372Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T17:10:06.433Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T17:10:06.460Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T17:11:20.545Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T17:11:20.611Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T17:11:20.627Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T17:11:44.809Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T17:11:45.928Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T17:11:52.060Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T17:11:52.121Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T17:11:52.138Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T17:11:56.491Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T17:11:56.558Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T17:11:56.575Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T17:12:09.746Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T17:12:09.808Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T17:12:09.824Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T19:00:33.262Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T19:00:33.514Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T19:00:33.582Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T19:00:35.356Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T19:00:35.501Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T19:00:35.522Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T19:00:37.283Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T19:00:37.336Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T19:00:37.362Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T19:02:31.766Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T19:02:31.854Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T19:02:31.872Z"}
+info: Editing a trip {"timestamp":"2023-12-11T19:36:49.265Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-11T19:36:49.355Z"}
+info: Successful edit of trip {"timestamp":"2023-12-11T19:36:49.377Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T19:37:00.716Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:37:01.514Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:38:06.764Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:38:07.371Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:38:18.105Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:38:18.695Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:38:38.821Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:38:39.635Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:38:51.240Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:38:52.020Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:39:08.897Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:39:09.632Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:39:42.030Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:39:42.773Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:39:52.525Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:39:52.979Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T19:40:26.557Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:40:27.151Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:40:33.972Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:40:34.622Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:40:37.766Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:40:38.081Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:44:31.938Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:44:32.591Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:44:41.996Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:44:42.745Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:45:51.452Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:45:52.273Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:47:38.433Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:47:39.178Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:53:15.710Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:53:16.356Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:55:04.152Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:55:04.889Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:55:16.105Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:55:16.930Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T19:55:27.843Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T19:55:28.489Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:15:49.157Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:15:50.258Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:16:50.394Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:16:51.702Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:17:30.026Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:17:30.804Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:20:21.813Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:20:34.136Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:20:34.481Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:22:13.980Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:22:22.298Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:22:22.935Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:23:26.528Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:23:27.229Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:31:03.583Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:31:04.478Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:33:26.487Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:33:27.406Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:33:28.159Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:33:29.065Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:33:35.294Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:33:36.042Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:34:09.515Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:34:10.226Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:35:11.732Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:35:12.036Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:35:56.521Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:35:57.743Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:35:59.448Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:36:12.047Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:36:12.611Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:37:44.503Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:37:57.067Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:37:58.041Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:39:00.576Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:39:01.289Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:39:26.798Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:39:39.708Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:39:40.671Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:41:37.594Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:41:56.823Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:41:58.244Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:44:39.417Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:44:54.250Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:44:54.652Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:45:18.104Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:45:18.812Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:48:41.771Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:48:43.499Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:49:08.891Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:49:10.823Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:49:27.026Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:49:29.056Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:49:48.085Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:50:05.872Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:50:07.458Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:50:22.584Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:50:24.764Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:50:50.005Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:50:50.881Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:51:09.907Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:51:10.735Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:56:08.968Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:56:10.186Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:56:11.379Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:56:37.754Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:56:42.079Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:57:17.158Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:57:19.897Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:57:59.946Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:58:02.222Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T20:58:14.027Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:58:14.565Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:58:28.903Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:58:46.615Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:58:48.144Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T20:59:13.196Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T20:59:33.230Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T20:59:34.532Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T21:00:30.219Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T21:00:30.318Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T21:00:30.336Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:00:48.149Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:00:50.309Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:01:03.377Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:01:04.045Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:05:33.383Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:05:34.088Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T21:11:13.791Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T21:11:13.844Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T21:11:13.858Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T21:11:18.652Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T21:11:18.706Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T21:11:18.716Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:11:28.247Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:11:29.697Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:11:41.916Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:11:43.824Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T21:18:04.735Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T21:18:04.809Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T21:18:04.820Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T21:18:10.049Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T21:18:10.135Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T21:18:10.147Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:18:23.405Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:21:07.641Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:21:09.315Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:21:34.891Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:21:36.149Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T21:24:59.779Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T21:24:59.880Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T21:24:59.896Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T21:25:07.376Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T21:25:07.461Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T21:25:07.474Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:25:24.272Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:28:29.157Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:28:30.164Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:28:51.709Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:28:53.182Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:29:47.030Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:29:47.580Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:33:45.817Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:33:46.684Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:35:23.160Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:35:23.835Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:37:00.194Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:37:01.531Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T21:38:06.010Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T21:38:06.238Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T21:38:06.266Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T21:38:11.919Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T21:38:11.984Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T21:38:12.016Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:38:21.226Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:38:24.062Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:38:34.461Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:38:35.415Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:39:02.458Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:39:03.477Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T21:40:05.678Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:40:07.265Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T21:40:26.353Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:40:27.543Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T21:40:35.300Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T21:40:35.353Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T21:40:35.368Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T21:40:39.022Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:40:52.136Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:40:52.839Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T21:46:10.273Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T21:46:11.722Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T21:48:56.330Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T21:48:56.380Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T21:48:56.396Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T21:49:13.166Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T21:49:13.229Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T21:49:13.242Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T22:29:43.990Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:29:45.180Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T22:31:04.636Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:31:05.769Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T22:31:16.607Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:31:17.453Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T22:31:44.025Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:31:44.995Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T22:35:56.733Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:35:58.040Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T22:37:16.432Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:37:17.398Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T22:39:11.910Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:39:12.569Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T22:40:42.238Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:40:43.125Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T22:40:50.511Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:40:51.306Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T22:40:58.663Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T22:41:01.423Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T22:44:41.262Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:44:42.138Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T22:45:55.055Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:45:56.366Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T22:46:22.804Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T22:46:40.866Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T22:46:40.966Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T22:46:40.992Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T22:47:06.662Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T22:47:07.352Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T22:47:35.196Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T22:47:35.248Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T22:47:35.260Z"}
+info: Nothing to do here. Just logging an EditPlan event {"timestamp":"2023-12-11T23:04:07.414Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T23:04:08.647Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T23:05:01.857Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T23:05:02.594Z"}
+info: Nothing to do here. Just logging an DeletePlan event {"timestamp":"2023-12-11T23:05:44.113Z"}
+info: Creating a Trip {"timestamp":"2023-12-11T23:06:09.444Z"}
+info: Nothing to do here. Just logging an CreateTrip event {"timestamp":"2023-12-11T23:06:09.549Z"}
+info: Successful creation of trip {"timestamp":"2023-12-11T23:06:09.576Z"}
+info: Nothing to do here. Just logging an CreatePlan event {"timestamp":"2023-12-11T23:06:31.621Z"}
+info: Nothing to do here. Just logging an LocationAppended event {"timestamp":"2023-12-11T23:06:32.355Z"}
+info: Deleting a Trip {"timestamp":"2023-12-11T23:07:07.878Z"}
+info: Nothing to do here. Just logging an DeleteTrip event {"timestamp":"2023-12-11T23:07:07.940Z"}
+info: Successful deletion of trip {"timestamp":"2023-12-11T23:07:07.952Z"}
+info: Editing a trip {"timestamp":"2023-12-11T23:07:15.771Z"}
+info: Nothing to do here. Just logging an EditTrip event {"timestamp":"2023-12-11T23:07:15.831Z"}
+info: Successful edit of trip {"timestamp":"2023-12-11T23:07:15.844Z"}

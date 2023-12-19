@@ -1,0 +1,45 @@
+version: "3.9"
+services:
+  client:
+    build: "./client"
+    ports:
+      - "54214:3000"
+    volumes:
+      - ./client/src:/usr/app/src
+      - ./client/build:/usr/app/build
+    # command: "npm run dev -- --host"
+  eventbus:
+    build: "./eventBus"
+    ports:
+      - "54215:54215"
+    volumes:
+      - "./eventBus:/usr/app"
+    # command: "npm run dev"
+  location:
+    build: "./location"
+    ports:
+      - "54210:54210"
+    volumes:
+      - ./location:/usr/app
+    # command: "npm run dev"
+  plan:
+    build: "./plan"
+    ports:
+      - "54211:54211"
+    volumes:
+      - ./plan:/usr/app
+    # command: "npm run dev"
+  server:
+    build: "./server"
+    ports:
+      - "54212:54212"
+    volumes:
+      - ./server:/usr/app
+    # command: "npm run dev"
+  trip:
+    build: "./trip"
+    ports:
+      - "54213:54213"
+    volumes:
+      - ./trip:/usr/app
+    # command: "npm run dev"
