@@ -6,7 +6,7 @@ services:
       - "54214:3000"
     volumes:
       - ./client/src:/usr/app/src
-      - ./client/build:/usr/app/build
+      # - ./client/build:/usr/app/build
     # command: "npm run dev -- --host"
   eventbus:
     build: "./eventBus"
