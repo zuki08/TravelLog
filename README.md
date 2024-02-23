@@ -1,7 +1,3 @@
-# Table of Contents
-- [Project Description](#Project-Description)
-    - [How it works](#Overview)
-- [How to run (Getting Started)](#Getting-Started-with-Create-React-App)
 # Project Description
 
 This project is a travel log application that keeps track of your travels. Or it can be used to plan your travels.
