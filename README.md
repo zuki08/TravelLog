@@ -17,7 +17,7 @@ Client can edit their trips and itineraries. This will send post requests throug
 # Note: You should create .env files for the applications to work. Please follow the instructions inside the .env.example files of each folder if they exist. 
 Thank you.
 
-# Getting Started with Create React App
+# Getting Started with the App
 
 To run the application. Make sure you have Node and Docker installed.
 
